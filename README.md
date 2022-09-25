@@ -9,7 +9,7 @@ I graduated from Trakya University Computer Science. I am currently actively dev
 
 ## My Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnirva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnirva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
